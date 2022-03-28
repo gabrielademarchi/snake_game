@@ -10,6 +10,8 @@ Concepts used:
 <li>Classes</li>   
 <li>Classe Inheritance</li>  
 <li>Slicing</li>  
+<li>File Reading</li>
+<li>File Writing</li>
 </ul>
 
 -Day 21 of the #100daysofcode challenge
